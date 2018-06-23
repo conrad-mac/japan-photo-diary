@@ -156,7 +156,7 @@ var mapData = { rows: [
     "location_name": "Ginkakuji, Kyoto",
     "thumbnail": "img/thumbnails/ginkakuji8_tn.jpg",
     "url": "",
-    "video": "vid/ginkakuji.MOV",
+    "video": "vid/ginkakuji.mp4",
     "caption": "Ginkakuji, Kyoto",
     "lat": 35.027,
     "lng": 135.7982
@@ -480,7 +480,7 @@ var mapData = { rows: [
     "location_name": "Isuien Garden, Nara",
     "thumbnail": "img/thumbnails/isuien_garden12_tn.jpg",
     "url": "",
-    "video": "vid/isuien_garden.MOV",
+    "video": "vid/isuien_garden.mp4",
     "caption": "Isuien Garden, Nara",
     "lat": 34.6856,
     "lng": 135.8375
@@ -768,7 +768,7 @@ var mapData = { rows: [
     "location_name": "Kokoen Garden, Himeji",
     "thumbnail": "img/thumbnails/kokoen2_tn.jpg",
     "url": "",
-    "video": "vid/kokoen.MOV",
+    "video": "vid/kokoen.mp4",
     "caption": "Kokoen Garden, Himeji",
     "lat": 34.8379,
     "lng": 134.6898
@@ -903,7 +903,7 @@ var mapData = { rows: [
     "location_name": "Korakuen Garden, Okayama",
     "thumbnail": "img/thumbnails/korakuen7_tn.jpg",
     "url": "",
-    "video": "vid/korakuen.MOV",
+    "video": "vid/korakuen.mp4",
     "caption": "Korakuen Garden, Okayama",
     "lat": 34.6673,
     "lng": 133.9362
@@ -966,7 +966,7 @@ var mapData = { rows: [
     "location_name": "Maruyama Park, Kyoto",
     "thumbnail": "img/thumbnails/maruyama3_tn.jpg",
     "url": "",
-    "video": "vid/maruyama.MOV",
+    "video": "vid/maruyama.mp4",
     "caption": "Maruyama Park, Kyoto",
     "lat": 35.0039,
     "lng": 135.7809
@@ -1344,7 +1344,7 @@ var mapData = { rows: [
     "location_name": "Okayama Station, Okayama",
     "thumbnail": "img/thumbnails/okayama_station4_tn.jpg",
     "url": "",
-    "video": "vid/okayama_station.MOV",
+    "video": "vid/okayama_station.mp4",
     "caption": "Okayama Station, Okayama",
     "lat": 34.6664,
     "lng": 133.9186
@@ -1506,7 +1506,7 @@ var mapData = { rows: [
     "location_name": "Philosopher's Path, Kyoto",
     "thumbnail": "img/thumbnails/philosophers_path2_tn.jpg",
     "url": "",
-    "video": "vid/philisophers_path.MOV",
+    "video": "vid/philisophers_path.mp4",
     "caption": "Philosopher's Path, Kyoto",
     "lat": 35.0215,
     "lng": 135.7942
@@ -1740,7 +1740,7 @@ var mapData = { rows: [
     "location_name": "Shitennoji Temple, Osaka",
     "thumbnail": "img/thumbnails/shitennoji3_tn.jpg",
     "url": "",
-    "video": "vid/shitennoji.MOV",
+    "video": "vid/shitennoji.mp4",
     "caption": "Shitennoji Temple, Osaka",
     "lat": 34.6533,
     "lng": 135.5165
